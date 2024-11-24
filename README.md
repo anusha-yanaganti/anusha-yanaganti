@@ -8,8 +8,7 @@
 <h3 align="center">Full Stack Web Developer | Programmer</h3>
 <p> I'm a Student at PVPSIT pursuing Computer Science and Engineering. I'm Committed to personal and professional growth, always seeking new opportunities. I'm always Excited to collaborate with brands and individuals to create impactful content and campaigns. ►Open to networking and connecting with like-minded professionals </p>
 
-<img align="right" alt="Coding" width="400" src="
-https://camo.githubusercontent.com/7aa569058fb2909d21dcba34e54096c61ac0e634804d8044ffbae96263a459f5/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7aa569058fb2909d21dcba34e54096c61ac0e634804d8044ffbae96263a459f5/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 
 - 🌱 I'm based in **India**
